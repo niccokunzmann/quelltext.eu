@@ -1,0 +1,7 @@
+# .well-known with jekyll
+# see https://maxchadwick.xyz/blog/the-well-known-folder-and-github-pages-jekyll
+layout: none
+permalink: .well-known/org.flathub.VerifiedApps.txt
+---
+# eu.quelltext.open_chakra_toning
+06ed7456-2b3e-40cd-8230-22e3a8ed80c6
