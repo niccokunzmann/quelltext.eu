@@ -1,6 +1,6 @@
 # quelltext.eu
 
-Source code of https://quelltext.eu
+Source code of [quelltext.eu](https://quelltext.eu) is located on [GitHub](https://github.com/niccokunzmann/quelltext.eu).
 
 ## Flathub App Verification
 
